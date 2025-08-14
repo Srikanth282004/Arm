@@ -1,0 +1,4 @@
+Invoking command in '/home/srikanth/amr_nav/build/amr_nav': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/srikanth/amr_nav/build/amr_nav -- -j4 -l4
+Invoked command in '/home/srikanth/amr_nav/build/amr_nav' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/srikanth/amr_nav/build/amr_nav -- -j4 -l4
+Invoking command in '/home/srikanth/amr_nav/build/amr_nav': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/srikanth/amr_nav/build/amr_nav
+Invoked command in '/home/srikanth/amr_nav/build/amr_nav' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/srikanth/amr_nav/build/amr_nav

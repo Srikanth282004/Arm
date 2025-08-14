@@ -1,0 +1,1 @@
+/home/srikanth/amr_nav/build/amr_nav/ament_cmake_environment_hooks/local_setup.sh
